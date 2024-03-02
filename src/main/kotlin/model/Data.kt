@@ -15,5 +15,5 @@ data class Courier(
     val website: String?,
     val isPost: Boolean?,
     val countryCode: String?,
-    val requiredFields: String?,
+    val requiredFields: List<String?>?,
 )

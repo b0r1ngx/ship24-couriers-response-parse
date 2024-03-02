@@ -12,6 +12,7 @@ repositories {
 
 dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.3")
+    implementation("com.mohamedrejeb.ksoup:ksoup-html:0.3.1")
     testImplementation("org.jetbrains.kotlin:kotlin-test")
 }
 
