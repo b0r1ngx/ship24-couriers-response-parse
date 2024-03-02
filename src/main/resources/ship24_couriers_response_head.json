@@ -1,0 +1,38 @@
+{
+  "data": {
+    "couriers": [
+      {
+        "courierCode": "007ex",
+        "courierName": "007ex",
+        "website": null,
+        "isPost": false,
+        "countryCode": null,
+        "requiredFields": null
+      },
+      {
+        "courierCode": "139express",
+        "courierName": "139express",
+        "website": "http://www.139express.com/",
+        "isPost": false,
+        "countryCode": null,
+        "requiredFields": null
+      },
+      {
+        "courierCode": "17postservice",
+        "courierName": "17 Post Service",
+        "website": null,
+        "isPost": false,
+        "countryCode": null,
+        "requiredFields": null
+      },
+      {
+        "courierCode": "feia",
+        "courierName": "17Feia",
+        "website": "http://www.17feia.com/",
+        "isPost": false,
+        "countryCode": null,
+        "requiredFields": null
+      }
+    ]
+  }
+}
